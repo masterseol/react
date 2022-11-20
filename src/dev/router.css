@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 10vw;
+    font-size: 3rem;
+  }
+  .on {
+    background-color: red;
+  }.off:hover {
+    color: red;
+  }
+  img {
+    width: 100%;
+    height: 100%;
+  }
+  
